@@ -1,0 +1,11 @@
+$nomention
+$color[FF0000]
+$title[Shipado!]
+$footer[Ship feito por $username]
+$description[
+$allowMention
+**Será que temos um novo casal aqui?**
+<@$mentioned[1]> ❤️ + ❤️ <@$mentioned[2]>
+
+$random[0;100]% de chance!]
+$image[$randomText[https://pa1.narvii.com/6899/6ab302dba5eba23634f513dad0760343abef3832r1-496-280_hq.gif;https://64.media.tumblr.com/1a9dabf8322b372a6941123bcae48447/68d91f01f5e20dcf-eb/s500x750/2c1a70cdb06f3998f6ea0adce2811ac7c7567fd3.gifv;https://acegif.com/wp-content/uploads/anime-love-m.gif;https://i.gifer.com/8s6J.gif;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwp3GTG6LmJ0cgKibc9dIpY-lqTopLnC5Qg&usqp=CAU;https://pa1.narvii.com/6901/3f6a8f343241e3c20386690e87e1cec7ada649d2r1-500-281_00.gif;https://i.pinimg.com/originals/b9/89/3f/b9893ffce5b804f495a11b1a23534f10.gif;https://pa1.narvii.com/6899/fbc7ea2ea4582c478f23e6c89286c1d30e420683r1-500-280_hq.gif;https://data.whicdn.com/images/233971198/original.gif]]

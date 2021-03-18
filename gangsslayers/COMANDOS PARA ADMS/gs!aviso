@@ -1,0 +1,9 @@
+$deletecommand
+$argsCheck[>3;Insira a mensagem de aviso após o comando!]
+$onlyAdmin[Este comando e restrito somente a cargos com permissão de `Admnistrador`]
+$title[❗**Aviso**❗]
+$description[$message]
+$footer[Aviso feito por $username]
+$color[FF0000]
+$addTimestamp
+@everyone

@@ -1,0 +1,6 @@
+$nomention
+$title[**Avatar**]
+$description[Que bela foto!]
+$allowMention
+$image[$userAvatar[$mentioned[1]]]
+$footer[comando feito por $username]

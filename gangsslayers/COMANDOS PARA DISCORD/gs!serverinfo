@@ -1,0 +1,22 @@
+$nomention
+$color[08ee13]
+$footer[Server]
+**Informações de Servidor**
+$serverInfo[
+😎 **Nome do Servidor:** {name}
+
+🌎 **Região:** $serverRegion
+
+👑 **Dono:** {owner}
+
+💻 **ID:** $guildID
+
+✔️ **Nível de Verificação:** $serverVerificationLvl
+
+🗨️ **Canais:** $channelCount
+
+🏅 **Cargos:** $roleCount
+
+👤 **Membros:** $membersCount
+
+😁 **Emojis**: {emoji}]

@@ -1,0 +1,5 @@
+$argsCheck[>3;Escreva a mensagem após o comando]
+$onlyAdmin[você não pode usar este comando, ele e restrito somente a cargos com permissão `Admnistrador`]
+$deletecommand
+$description[$message]
+$color[FF0002]

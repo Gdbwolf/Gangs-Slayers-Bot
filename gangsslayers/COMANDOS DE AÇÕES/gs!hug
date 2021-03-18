@@ -1,0 +1,6 @@
+$color[FF0000]
+$footer[Abraço dado por $username]
+$description[
+$allowMention
+🤗 $username **Abraçou** <@$mentioned[1]>. Que abraço quentinho!]
+$image[$randomText[https://lh6.googleusercontent.com/proxy/-Pfss10_NH3zozTJWxBVq-aboBVBTTzPXrbYVbU3KorYPFcRLQqcPOuh3IyM3cCtZVse9SW6buhg725QXH6FnlAcBIefXauD01uXMZexTVjGkkHE0tj_Q53MrZofV0crvikAxm7s8az-V54gd9KgiVMq4io=w418-h280;https://lh5.googleusercontent.com/proxy/0ZIRPPiSqRVVNtd6URkrLKRP2NX-u-ccH_Y8CMuAvTfoL0UDIL9ATEQ9l1PDzXG8yes6kH5qbWPu13swcYmGfam2ijoEZL_mV8Zb74Ah3gP_Z89Kqa8qM2aeNBu5TFk-6GM_=w220-h123;https://i.pinimg.com/originals/82/c8/e9/82c8e9ff24cce631fa061b35cf9fe82b.gif;https://i.pinimg.com/originals/08/de/7a/08de7ad3dcac4e10d27b2c203841a99f.gif;https://pa1.narvii.com/6482/22f9e2775e1bc894ed23749a7b7c3a531be5c8de_00.gif;https://acegif.com/wp-content/uploads/anime-hug.gif;https://data.whicdn.com/images/225118462/original.gif;https://i.pinimg.com/originals/49/5d/a3/495da3253424973e0658c4ebecc2b1dc.gif;https://media.tenor.com/images/c0c9e79fd3074f772052e111353b0dec/tenor.gif;https://thumbs.gfycat.com/AntiqueScaryAustraliansilkyterrier-size_restricted.gif]]

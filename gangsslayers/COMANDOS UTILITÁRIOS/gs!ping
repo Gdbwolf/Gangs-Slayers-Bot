@@ -1,0 +1,4 @@
+$nomention
+$color[ff0101]
+$title[🏓|**Ping!**]
+$description[Latência da API: $ping]

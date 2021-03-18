@@ -1,0 +1,9 @@
+$deletecommand
+$argsCheck[>3;Insira a mensagem de anúncio após o comando!]
+$onlyAdmin[Este comando e restrito somente a cargos com permissão de `Admnistrador`]
+$color[FF0000]
+$title[🔔**Anúncio**🔔]
+$footer[Anúncio feito por $username]
+$description[$message]
+$addTimestamp
+@everyone

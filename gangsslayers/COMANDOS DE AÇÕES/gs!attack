@@ -1,0 +1,6 @@
+$color[FF0000]
+$footer[Ataque dado por $username]
+$description[
+$allowMention
+⚔️ $username **atacou** <@$mentioned[1]>. Ui essa doeu!]
+$image[$randomText[https://pa1.narvii.com/6830/5bc947cb6b49b0bd919dbde68d9f30b77c0d3e5d_hq.gif;https://pa1.narvii.com/6830/038b8a9dde38c598e37ad0c3156f441de4497282_hq.gif;https://i.pinimg.com/originals/d1/f8/98/d1f898fb2925dc1882e4009ec5f7b655.gif;https://i2.wp.com/67.media.tumblr.com/28ec4f3eb58bbef5ba0b256cacf41b5d/tumblr_o1znl6TlbQ1qet0cro2_540.gif?resize=540%2C304;https://4.bp.blogspot.com/-l0LS7NwXxLo/V6JoqD2_-TI/AAAAAAAAdEA/WCwO-pLs5tY7cubHg5OJEfiVxfE00q8KQCLcB/s1600/original.gif;https://i.pinimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif;https://i.pinimg.com/originals/90/50/7b/90507bda92c55c866e649cf048fd0c5f.gif;https://media1.tenor.com/images/8f7b25ee13cfd669418c78cd50431de3/tenor.gif?itemid=11539971;https://media1.tenor.com/images/499b0109664cc5f34cef2aa9ef76e666/tenor.gif?itemid=10231947;https://i.pinimg.com/originals/dd/b7/84/ddb78414c7ff864af534ede005db0c63.gif]]

@@ -1,0 +1,5 @@
+$argsCheck[1;Mencione alguém que deseja saber o quão corno ele é]
+$description[
+<@$mentioned[1]> é $random[0;100]% corno 🐂]
+$color[02FF00]
+$title[**Medidor de corno**]

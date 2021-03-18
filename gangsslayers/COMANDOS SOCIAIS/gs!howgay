@@ -1,0 +1,4 @@
+$argsCheck[1;Mencione alguém que deseja saber o quão gay ele é]
+$description[
+<@$mentioned[1]> é $random[0;100]% gay 🏳️‍🌈]$color[02FF00]
+$title[**Medidor de gay**]

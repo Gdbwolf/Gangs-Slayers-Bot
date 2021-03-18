@@ -1,0 +1,3 @@
+$title[🎲 Dado Jogado!]
+$footer[Dado jogado por $username]
+$description[Você jogou um dado e caiu o número $random[1;6]]

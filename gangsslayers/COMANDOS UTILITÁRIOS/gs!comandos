@@ -1,0 +1,48 @@
+$title[📝 ESTA E MINHA LISTA DE COMANDOS!]
+$color[01ff00]
+$addtimestamp
+$footer[Comando feito por $username]
+$description[
+😋 **COMANDOS SOCIAIS**
+
+gs!nvisible
+gs!emoji
+gs!coinflip
+gs!roll
+gs!howsimp
+gs!howgay
+
+🎨 **COMANDOS UTILITÁRIOS**
+
+gs!report Bug
+gs!ping
+gs!help
+
+💎 **COMANDOS PARA ADMS**
+
+gs!clear
+gs!message/say
+gs!anúncio
+gs!aviso
+gs!embed message/say embed
+
+💻 **COMANDOS PARA DISCORD**
+
+gs!serverinfo
+gs!avatar
+gs!userinfo
+gs!botinfo
+gs!roleinfo
+gs!servers
+
+🎥 **COMANDOS DE AÇÕES**
+
+gs!ship
+gs!kiss
+gs!punch
+gs!attack
+gs!cafuné
+gs!modo
+gs!fight
+gs!hug
+gs!slap]

@@ -1,0 +1,6 @@
+$nomention
+$onlyAdmin[você não pode usar este comando, ele e restrito somente a cargos com permissão `Admnistrador`]
+$title[Foram apagadas $message mensagens.]
+$color[ecf222]
+$argsCheck[1;Coloque o número de mensagens que você deseja apagar.]
+$clear

@@ -1,0 +1,10 @@
+$deletecommand
+$nomention
+$argsCheck[>1;Escreva a mensagem após o comando!]
+$onlyAdmin[Este comando e restrito somente a cargos com permissão `Admnistrador`]
+$title[📊 Enquete]
+$description[$message
+✔️ - Sim ❌ - Não]
+$color[FF0000]
+$addReactions[✔️;❌]
+@here
